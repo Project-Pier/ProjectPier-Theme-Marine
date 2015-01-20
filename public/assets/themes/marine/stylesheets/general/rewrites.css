@@ -128,7 +128,7 @@ acronym  {
 table  {
  border: 1px solid #CCCCCC;
  border-collapse: collapse;
- width: inherit;
+ /*width: inherit;*/
 }
 
 
